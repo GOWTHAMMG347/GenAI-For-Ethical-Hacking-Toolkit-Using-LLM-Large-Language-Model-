@@ -1,0 +1,1 @@
+http://www.google.com/setprefdomain?prefdom=IN&prev=http://www.google.co.in/&sig=K_DfVLb-Kyi6xVdGO5T1jpvWmy02Y%3D (GET)  # "C:\Users\GOWTHAM\Downloads\geminiapi (2)\geminiapi\sqlmap\sqlmap.py" -u http://google.com --batch --crawl=1 --threads=3 --smart --output-dir=sqlmap_results

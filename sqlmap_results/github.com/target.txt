@@ -1,0 +1,1 @@
+https://github.com/customer-stories?type=enterprise (GET)  # "C:\Users\GOWTHAM\Downloads\geminiapi (2)\geminiapi\sqlmap\sqlmap.py" -u http://github.com --batch --crawl=1 --threads=3 --smart --output-dir=sqlmap_results
